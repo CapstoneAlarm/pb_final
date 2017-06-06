@@ -1,0 +1,6 @@
+faucet
+cup
+tree
+seat
+pen
+brush
